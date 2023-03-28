@@ -1,0 +1,2 @@
+// Answer to question 6.
+console.log("My name is Aduragbemi Oduntan. My preferred programming language is C. In the next one year, I see myself fully transitioned into tech, working as a backend developer while studying to become a cloud engineer.");
