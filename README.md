@@ -14,4 +14,4 @@
 ```Node.js runs JavaScript code on a single thread```, which means that your code can only do one task at a time. ```However, Node.js itself is multithreaded and provides hidden threads through the libuv library```, which handles I/O operations like reading files from a disk or network requests. Through the use of hidden threads, Node.js provides asynchronous methods that allows code to make I/O requests without blocking the main thread.
 
 ### Answer_5
-REPL stanbds for Read-Eval-Print Loop. It is  a computer environment (an interactive toplevel or language shell) where user inputs are read and evaluated, and then the results are returned to the user.
+- [x] REPL stanbds for Read-Eval-Print Loop. It is  a computer environment (an interactive toplevel or language shell) where user inputs are read and evaluated, and then the results are returned to the user.
